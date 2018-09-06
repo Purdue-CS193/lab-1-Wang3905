@@ -1,3 +1,6 @@
+# Wang3905's first CS193 Lab
+- You guys are nice.
+- Need some time to get to know how this course works so, I like your suit :)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -11,12 +14,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Wang3905's first CS193 Lab
+# Header 1
 ## Header 2
 ### Header 3
 
-- You guys are nice.
-- Need some time to get to know how this course works so, I like your suit :)
+- Bulleted
+- List
 
 1. Numbered
 2. List
